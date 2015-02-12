@@ -1,5 +1,8 @@
 <?php
+/*
+HEllo  Pls e-accept ni 
 
+*/
 	class AdminController extends AppController{
 		
 		public $uses = array(
