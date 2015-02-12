@@ -1,4 +1,9 @@
 <?php
+
+   /*
+    gi-edit ni WarPipz
+   
+   */
 	App::uses('Controller', 'Controller');
 	App::import('Vendor', 'Encryption/Encryption');
 	class AppController extends Controller {
