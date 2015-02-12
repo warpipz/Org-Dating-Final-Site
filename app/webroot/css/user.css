@@ -1,0 +1,17 @@
+.redtxt{
+	color: red;
+	font-size: 120%;
+	font-weight: bold;
+}
+.half{
+	width: 50%;
+	display: inline;
+}
+.middle{
+	display: inline-block;
+	vertical-align: middle;
+}
+.birth_control{
+	width: 27%;
+	display: inline-block;
+}
